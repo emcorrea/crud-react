@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # crud-react
 Crud simple elaborado con React y Javascript
 =======
@@ -71,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 >>>>>>> Initialize project using Create React App
+=======
+# crud-react
+Crud simple elaborado con React y Javascript
+>>>>>>> 3f4813240249603a253fd44584efdb7d8effc124
